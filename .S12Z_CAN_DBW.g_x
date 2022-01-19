@@ -1,0 +1,47 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/SW1.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436972" FileType="45637" CompNumb="44" />
+      <File Name="Documentation/S12Z_CAN_DBW.txt" FileDate="2021-12-21, 11:03:04" FileAge="1640084584640" FileType="3072" />
+      <File Name="Sources/Events.c" FileDate="2022-01-04, 11:40:37" FileAge="1641296437019" FileType="131328" />
+      <File Name="Generated_Code/EN1.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436979" FileType="45637" CompNumb="38" />
+      <File Name="Generated_Code/PWM1.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436992" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/CAN1.c" FileDate="2022-01-04, 11:40:37" FileAge="1641296437007" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/SW1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436968" FileType="45637" CompNumb="44" />
+      <File Name="Generated_Code/EN1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436975" FileType="45637" CompNumb="38" />
+      <File Name="Generated_Code/PWM1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436989" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436939" FileType="45637" />
+      <File Name="Documentation/S12Z_CAN_DBW_SIGNALS.txt" FileDate="2022-01-10, 11:33:55" FileAge="1641814435883" FileType="3072" />
+      <File Name="Documentation/S12Z_CAN_DBW_Settings.xml" FileDate="2022-01-04, 11:40:37" FileAge="1641296437052" FileType="3072" />
+      <File Name="Generated_Code/ADC0.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436956" FileType="45637" CompNumb="46" />
+      <File Name="Generated_Code/ADC0.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436952" FileType="45637" CompNumb="46" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436935" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436947" FileType="45637" />
+      <File Name="Sources/main.c" FileDate="2022-01-05, 09:45:47" FileAge="1641375947056" FileType="128" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2022-01-04, 11:40:37" FileAge="1641296437013" FileType="8" CompNumb="12" />
+      <File Name="Generated_Code/TI1.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436999" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/SW2.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436964" FileType="45637" CompNumb="45" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436919" FileType="45637" />
+      <File Name="Generated_Code/PWM2.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436986" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/TI1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436996" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/SW2.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436959" FileType="45637" CompNumb="45" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436907" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PWM2.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436982" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436915" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436943" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436912" FileType="45637" CompNumb="12" />
+      <File Name="Sources/Events.h" FileDate="2022-01-04, 11:40:37" FileAge="1641296437017" FileType="131328" />
+      <File Name="Generated_Code/CAN1.h" FileDate="2022-01-04, 11:40:37" FileAge="1641296437004" FileType="45637" CompNumb="6" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>8</CodeGenReference>
+</CodeGenerationInfo>
