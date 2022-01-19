@@ -74,7 +74,6 @@
 							<inputType id="com.freescale.s12z.toolchain.compiler.inputType2.cpp.1057477690" name="S12Z C++ Compiler Input" superClass="com.freescale.s12z.toolchain.compiler.inputType2.cpp"/>
 						</tool>
 					</fileInfo>
-					<fileInfo id="com.freescale.s12z.toolchain.release.523404955..settings/com.freescale.processorexpert.core.prefs" name="com.freescale.processorexpert.core.prefs" rcbsApplicability="disable" resourcePath=".settings/com.freescale.processorexpert.core.prefs" toolsToInvoke=""/>
 					<sourceEntries>
 						<entry excluding=".settings/com.freescale.processorexpert.core.prefs" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
