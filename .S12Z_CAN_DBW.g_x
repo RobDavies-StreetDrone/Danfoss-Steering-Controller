@@ -20,7 +20,7 @@
       <File Name="Generated_Code/EN1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436975" FileType="45637" CompNumb="38" />
       <File Name="Generated_Code/PWM1.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436989" FileType="45637" CompNumb="19" />
       <File Name="Generated_Code/PE_Const.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436939" FileType="45637" />
-      <File Name="Documentation/S12Z_CAN_DBW_SIGNALS.txt" FileDate="2022-01-19, 16:29:03" FileAge="1642609743959" FileType="3072" />
+      <File Name="Documentation/S12Z_CAN_DBW_SIGNALS.txt" FileDate="2022-02-16, 09:12:37" FileAge="1645002757552" FileType="3072" />
       <File Name="Documentation/S12Z_CAN_DBW_Settings.xml" FileDate="2022-01-04, 11:40:37" FileAge="1641296437052" FileType="3072" />
       <File Name="Generated_Code/ADC0.h" FileDate="2022-01-04, 11:40:36" FileAge="1641296436956" FileType="45637" CompNumb="46" />
       <File Name="Generated_Code/ADC0.c" FileDate="2022-01-04, 11:40:36" FileAge="1641296436952" FileType="45637" CompNumb="46" />
@@ -43,5 +43,5 @@
       <File Name="Generated_Code/CAN1.h" FileDate="2022-01-04, 11:40:37" FileAge="1641296437004" FileType="45637" CompNumb="6" />
     </GeneratedByPE>
   </GeneratedFilesList>
-  <CodeGenReference>9</CodeGenReference>
+  <CodeGenReference>11</CodeGenReference>
 </CodeGenerationInfo>
